@@ -20,7 +20,8 @@ To start the game, navigate to the directory containing your main.py file and ex
 In-Game Instructions
 When prompted to choose a move for your Pokémon, you will see options like:
 
-**Thunderbolt** (Electric type, 90 power, 100.0% accuracy)
+**1. Thunderbolt** (Electric type, 90 power, 100.0% accuracy)
 Use this option to attack with Thunderbolt.
-**Tackle** (Normal type, 40 power, 100.0% accuracy)
+
+**2. Tackle** (Normal type, 40 power, 100.0% accuracy)
 Use this option to attack with Tackle.
